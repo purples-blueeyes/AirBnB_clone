@@ -1,10 +1,10 @@
 # AirBnB clone - The console
 
-## :octocat: Group project
+### :octocat: Group project
 
-## :rocket: Command Interpreter to manage the AirBNB objects
+### :rocket: Command Interpreter to manage the AirBNB objects
 
-### :metal: Each task is linked and will help to
+## :metal: Each task is linked and will help to-
 
 :octocat: put in place a parent class (called BaseModel) to take care of the initialization, serialization and deserialization of your future instances.
 
