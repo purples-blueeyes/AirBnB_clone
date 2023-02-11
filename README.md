@@ -2,7 +2,7 @@
 
 ## :octocat: Group project
 
-## :Rocket: Command Interpreter to manage the AirBNB objects
+## :rocket: Command Interpreter to manage the AirBNB objects
 
 ### :metal: Each task is linked and will help to
 
