@@ -17,7 +17,7 @@
 
 ## Tasks
 
-## Resources
+## Resource(s)
 
 ## Authors
 
