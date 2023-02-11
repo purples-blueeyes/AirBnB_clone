@@ -1,8 +1,7 @@
 # AirBnB clone - The console
 
-### :octocat: Group project
-
-### :rocket: Command Interpreter to manage the AirBNB objects
+**:octocat: Group project** |**:rocket: Command Interpreter to manage the AirBNB objects**
+------ | -----
 
 ## :metal: Each task is linked and will help to-
 
